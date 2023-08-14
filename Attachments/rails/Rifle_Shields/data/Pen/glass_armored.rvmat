@@ -1,0 +1,10 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: rails\Rifle_Shields\data\Pen\glass_armored.rvmat
+//Produced from mikero's Dos Tools Dll version 9.10
+//https://mikero.bytex.digital/Downloads
+//'now' is Mon Aug 14 16:30:09 2023 : 'file' last modified on Sun Aug 22 11:32:15 2021
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+surfaceInfo = "Attachments\rails\Rifle_Shields\data\Pen\glass_armored.bisurf";

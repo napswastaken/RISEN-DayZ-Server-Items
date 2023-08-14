@@ -1,0 +1,6 @@
+//<'Attachments.pbo' properties via Mikero's dos tools, dll version 9.10>
+prefix=Attachments;
+Mikero=DePbo.dll.8.10;
+version=21080215;
+//PboType=Arma Addon;
+//</properties>
