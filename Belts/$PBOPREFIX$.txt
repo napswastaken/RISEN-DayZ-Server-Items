@@ -1,0 +1,6 @@
+//<'Nulled_Belts.pbo' properties via Mikero's dos tools, dll version 9.10>
+prefix=Belts;
+Mikero=DePbo.dll.8.07;
+version=21082112;
+//PboType=Arma Addon;
+//</properties>
