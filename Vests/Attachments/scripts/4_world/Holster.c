@@ -1,0 +1,1 @@
+class NULLED_Holster_ColorBase extends Clothing {};

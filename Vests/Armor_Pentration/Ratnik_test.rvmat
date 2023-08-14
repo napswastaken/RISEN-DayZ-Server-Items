@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Armor_Pentration\Ratnik_test.rvmat
+//Produced from mikero's Dos Tools Dll version 9.10
+//https://mikero.bytex.digital/Downloads
+//'now' is Mon Aug 14 16:31:52 2023 : 'file' last modified on Mon Aug 14 16:31:52 2023
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+surfaceInfo = "Vests\Armor_Pentration\Ratnik_test.bisurf";
+ambient[] = {0.490196,0.592157,0.556863,1.0};
+diffuse[] = {0.490196,0.592157,0.556863,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {0.0,0.0,0.0,1.0};
+specularPower = 1.0;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";

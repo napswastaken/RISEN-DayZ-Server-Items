@@ -1,0 +1,24 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Armor_Pentration\Ratnik_test.bisurf
+//Produced from mikero's Dos Tools Dll version 9.10
+//https://mikero.bytex.digital/Downloads
+//'now' is Mon Aug 14 16:31:52 2023 : 'file' last modified on Mon Aug 14 16:31:52 2023
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+Density = 2400;
+Thickness = 100;
+deflection = 1;
+bulletPenetrability = 50;
+bulletPenetrabilityWithThickness = 100;
+transparency = 0;
+rough = 0.1;
+dust = 0;
+audibility = 1.0;
+soundEnviron = "Empty";
+isLiquid = "false";
+friction = 0.7;
+restitution = 0.3;
+impact = "Hit_Metal";
+soundHit = "metal";
