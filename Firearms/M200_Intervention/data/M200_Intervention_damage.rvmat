@@ -1,0 +1,94 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Nulled_Firearms\M200_Intervention\data\M200_Intervention_damage.rvmat
+//Produced from mikero's Dos Tools Dll version 8.12
+//https://mikero.bytex.digital/Downloads
+//'now' is Wed Aug 25 20:20:23 2021 : 'file' last modified on Sun Aug 22 09:40:30 2021
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,1};
+specular[] = {0.2,0.2,0.2,1};
+specularPower = 50;
+PixelShaderID = "Super";
+VertexShaderID = "Super";
+class Stage1
+{
+	texture = "Firearms\M200_Intervention\data\M200_nohq.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage2
+{
+	texture = "dz\weapons\data\weapons_damage_generic_dt.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {4,0,0};
+		up[] = {0,4,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage3
+{
+	texture = "";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage4
+{
+	texture = "Firearms\M200_Intervention\data\M200_as.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage5
+{
+	texture = "Firearms\M200_Intervention\data\M200_smdi.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage6
+{
+	texture = "#(ai,64,64,1)fresnel(1.61,1.4)";
+	uvSource = "none";
+};
+class Stage7
+{
+	texture = "dz\data\data\env_land_co.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
