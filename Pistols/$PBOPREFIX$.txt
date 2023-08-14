@@ -1,6 +1,0 @@
-//<'Nulled_Pistols.pbo' properties via Mikero's dos tools, dll version 9.10>
-prefix=Pistols;
-Mikero=DePbo.dll.8.07;
-version=21081300;
-//PboType=Arma Addon;
-//</properties>

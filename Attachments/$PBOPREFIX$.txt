@@ -1,6 +1,0 @@
-//<'Nulled_Attachments.pbo' properties via Mikero's dos tools, dll version 9.10>
-prefix=Attachments;
-Mikero=DePbo.dll.8.07;
-version=21082119;
-//PboType=Arma Addon;
-//</properties>

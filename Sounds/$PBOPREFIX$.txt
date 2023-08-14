@@ -1,6 +1,0 @@
-//<'Nulled_Sounds.pbo' properties via Mikero's dos tools, dll version 9.10>
-prefix=Sounds;
-Mikero=DePbo.dll.8.07;
-version=21072117;
-//PboType=Arma Addon;
-//</properties>
